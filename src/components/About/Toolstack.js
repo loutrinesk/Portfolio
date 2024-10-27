@@ -3,16 +3,12 @@ import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
   SiPostman,
-  SiJetbrains, 
   SiPhpstorm, 
   SiWebstorm, 
   SiRider, 
   SiVisualstudio, 
   SiWindows, 
   SiArchlinux, 
-  SiDebian, 
-  SiKalilinux, 
-  SiGithub
 } from "react-icons/si";
 
 function Toolstack() {
