@@ -13,6 +13,8 @@ function AboutCard() {
             <br />
             I am currently an Engineering Student.
             <br />
+            I'm learning Linux and Cybersecurity
+            <br />
             <br />
             Apart from IT, some other activities that I love to do!
           </p>

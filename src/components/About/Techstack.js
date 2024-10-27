@@ -8,17 +8,19 @@ import {
   DiPython,
   DiGit,
   DiMysql,
+  DiPhp
 
 } from "react-icons/di";
 import {
   SiPostgresql,
-  SiMysql,
-  SiCsharp, 
-  SiTypescript, 
   SiDotnet
 } from "react-icons/si";
 
-import { TbBrandCSharp, TbBrandTypescript, TbBrandPowershell } from "react-icons/tb";
+import { 
+  TbBrandCSharp, 
+  TbBrandTypescript, 
+  TbBrandPowershell 
+} from "react-icons/tb";
 
 function Techstack() {
   return (
@@ -34,6 +36,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <TbBrandTypescript />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiPhp />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />
