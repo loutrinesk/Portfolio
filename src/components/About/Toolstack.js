@@ -8,7 +8,7 @@ import {
   SiRider, 
   SiVisualstudio, 
   SiWindows, 
-  SiArchlinux, 
+  SiKalilinux
 } from "react-icons/si";
 
 function Toolstack() {
@@ -36,7 +36,7 @@ function Toolstack() {
         <SiWindows />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiArchlinux />
+        <SiKalilinux />
       </Col>
     </Row>
   );
