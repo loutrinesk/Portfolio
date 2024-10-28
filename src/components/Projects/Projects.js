@@ -44,7 +44,7 @@ function Projects() {
               imgPath={cutecat}
               isBlog={false}
               title="CuteCat"
-              description="Certfified Discord Bot I worked on."
+              description="Certfied Discord Bot I worked on."
             />
           </Col>
         </Row>
